@@ -1,13 +1,14 @@
 # stock-portfolio-tracker
-# Task 2: Stock Portfolio Tracker - CodeAlpha Internship
 
-# Predefined stock prices
+
+
 stock_prices = {
-    "AAPL": 180,
-    "TSLA": 250,
-    "GOOGL": 2800,
-    "AMZN": 3500,
-    "MSFT": 300
+    "APPLE": 180,
+    "TESLA": 250,
+    "GOOGLE": 2800,
+    "AMAZON": 3500,
+    "MICROSOFT": 300
+    "RELIANCE": 3000
 }
 
 # Dictionary to hold user's portfolio
